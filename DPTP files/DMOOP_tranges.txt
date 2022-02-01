@@ -1,0 +1,7 @@
+% DMOOP t_ranges
+
+dMOP1 - [1 3]   // MOEA/D-type2decomp
+
+dMOP2 - [1 3]   // All algorithms fail after first optimization - POS changes?
+
+HE1 - [1 3?]    // POF changes but some previous solutions are invlaid but kept, HV threshold cannot be met.
